@@ -1,0 +1,4 @@
+[plugin]
+description = "Enables automatic subdomain creation in Arvancloud DNS"
+verison = "0.0.1"
+[plugin.config]
